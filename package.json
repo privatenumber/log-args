@@ -1,0 +1,11 @@
+{
+  "name": "log-args",
+  "version": "1.0.0",
+  "description": "Log args for testing",
+  "main": "index.js",
+  "bin": {
+    "log-args": "bin.js"
+  },
+  "author": "Hiroki Osame <hiroki.osame@gmail.com>",
+  "license": "MIT"
+}
